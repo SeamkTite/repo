@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\bin\Debug\DoWhile.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\obj\Debug\DoWhile.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\obj\Debug\DoWhile.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\DoWhile\DoWhile\obj\Debug\DoWhile.pdb

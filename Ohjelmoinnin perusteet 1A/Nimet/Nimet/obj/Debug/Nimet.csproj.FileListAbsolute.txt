@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\bin\Debug\Nimet.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\bin\Debug\Nimet.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\bin\Debug\Nimet.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\obj\Debug\Nimet.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\obj\Debug\Nimet.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nimet\Nimet\obj\Debug\Nimet.pdb

@@ -1,5 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KertotauluKoe\KertotauluKoe\bin\Debug\KertotauluKoe.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KertotauluKoe\KertotauluKoe\bin\Debug\KertotauluKoe.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KertotauluKoe\KertotauluKoe\bin\Debug\KertotauluKoe.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KertotauluKoe\KertotauluKoe\obj\Debug\KertotauluKoe.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KertotauluKoe\KertotauluKoe\obj\Debug\KertotauluKoe.pdb

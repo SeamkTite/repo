@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\bin\Debug\SummaWhile.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\bin\Debug\SummaWhile.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\bin\Debug\SummaWhile.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\obj\Debug\SummaWhile.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\obj\Debug\SummaWhile.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\SummaWhile\SummaWhile\obj\Debug\SummaWhile.pdb

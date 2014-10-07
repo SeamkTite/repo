@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

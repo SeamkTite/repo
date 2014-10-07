@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\bin\Debug\forEsimerkki.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\bin\Debug\forEsimerkki.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\bin\Debug\forEsimerkki.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\obj\Debug\forEsimerkki.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\obj\Debug\forEsimerkki.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\forEsimerkki\forEsimerkki\obj\Debug\forEsimerkki.pdb

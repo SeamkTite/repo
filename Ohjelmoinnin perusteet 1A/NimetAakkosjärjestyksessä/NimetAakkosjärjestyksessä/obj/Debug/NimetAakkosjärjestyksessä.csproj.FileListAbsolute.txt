@@ -1,5 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1B\NimetAakkosjärjestyksessä\NimetAakkosjärjestyksessä\bin\Debug\NimetAakkosjärjestyksessä.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1B\NimetAakkosjärjestyksessä\NimetAakkosjärjestyksessä\bin\Debug\NimetAakkosjärjestyksessä.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1B\NimetAakkosjärjestyksessä\NimetAakkosjärjestyksessä\bin\Debug\NimetAakkosjärjestyksessä.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1B\NimetAakkosjärjestyksessä\NimetAakkosjärjestyksessä\obj\Debug\NimetAakkosjärjestyksessä.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1B\NimetAakkosjärjestyksessä\NimetAakkosjärjestyksessä\obj\Debug\NimetAakkosjärjestyksessä.pdb

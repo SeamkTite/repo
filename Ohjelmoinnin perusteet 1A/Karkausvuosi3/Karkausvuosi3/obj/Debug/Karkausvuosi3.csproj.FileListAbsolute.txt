@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\bin\Debug\Karkausvuosi3.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\bin\Debug\Karkausvuosi3.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\bin\Debug\Karkausvuosi3.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\obj\Debug\Karkausvuosi3.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\obj\Debug\Karkausvuosi3.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Karkausvuosi3\Karkausvuosi3\obj\Debug\Karkausvuosi3.pdb

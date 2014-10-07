@@ -1,5 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MetodiTesti1\MetodiTesti1\bin\Debug\MetodiTesti1.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MetodiTesti1\MetodiTesti1\bin\Debug\MetodiTesti1.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MetodiTesti1\MetodiTesti1\bin\Debug\MetodiTesti1.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MetodiTesti1\MetodiTesti1\obj\Debug\MetodiTesti1.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MetodiTesti1\MetodiTesti1\obj\Debug\MetodiTesti1.pdb

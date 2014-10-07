@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\bin\Debug\PintaAloja.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\bin\Debug\PintaAloja.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\bin\Debug\PintaAloja.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\obj\Debug\PintaAloja.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\obj\Debug\PintaAloja.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\PintaAloja\PintaAloja\obj\Debug\PintaAloja.pdb

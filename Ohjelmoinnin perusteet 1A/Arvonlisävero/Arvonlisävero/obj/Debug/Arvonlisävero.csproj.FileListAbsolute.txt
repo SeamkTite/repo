@@ -1,5 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvonlisävero\Arvonlisävero\bin\Debug\Arvonlisävero.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvonlisävero\Arvonlisävero\bin\Debug\Arvonlisävero.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvonlisävero\Arvonlisävero\bin\Debug\Arvonlisävero.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvonlisävero\Arvonlisävero\obj\Debug\Arvonlisävero.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvonlisävero\Arvonlisävero\obj\Debug\Arvonlisävero.pdb

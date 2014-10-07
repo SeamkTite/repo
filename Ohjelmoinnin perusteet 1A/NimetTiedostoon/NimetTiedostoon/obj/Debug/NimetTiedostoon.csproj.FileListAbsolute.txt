@@ -1,6 +1,0 @@
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\bin\Debug\NimetTiedostoon.exe.config
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\bin\Debug\NimetTiedostoon.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\bin\Debug\NimetTiedostoon.pdb
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\obj\Debug\NimetTiedostoon.csprojResolveAssemblyReference.cache
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\obj\Debug\NimetTiedostoon.exe
-Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\NimetTiedostoon\NimetTiedostoon\obj\Debug\NimetTiedostoon.pdb
