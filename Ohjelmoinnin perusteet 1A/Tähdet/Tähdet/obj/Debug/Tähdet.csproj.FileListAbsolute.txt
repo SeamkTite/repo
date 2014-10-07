@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Tähdet\Tähdet\bin\Debug\Tähdet.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Tähdet\Tähdet\bin\Debug\Tähdet.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Tähdet\Tähdet\bin\Debug\Tähdet.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Tähdet\Tähdet\obj\Debug\Tähdet.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Tähdet\Tähdet\obj\Debug\Tähdet.pdb

@@ -1,0 +1,6 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\bin\Debug\Satunnaislukuja.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\bin\Debug\Satunnaislukuja.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\bin\Debug\Satunnaislukuja.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\obj\Debug\Satunnaislukuja.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\obj\Debug\Satunnaislukuja.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Satunnaislukuja\Satunnaislukuja\obj\Debug\Satunnaislukuja.pdb

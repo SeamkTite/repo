@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nopanheitto\OneDice\bin\Debug\OneDice.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nopanheitto\OneDice\bin\Debug\OneDice.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nopanheitto\OneDice\obj\x86\Debug\OneDice.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nopanheitto\OneDice\obj\x86\Debug\OneDice.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Nopanheitto\OneDice\obj\x86\Debug\OneDice.pdb

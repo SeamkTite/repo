@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Sinikäyrä\Sinikäyrä\bin\Debug\Sinikäyrä.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Sinikäyrä\Sinikäyrä\bin\Debug\Sinikäyrä.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Sinikäyrä\Sinikäyrä\bin\Debug\Sinikäyrä.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Sinikäyrä\Sinikäyrä\obj\Debug\Sinikäyrä.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Sinikäyrä\Sinikäyrä\obj\Debug\Sinikäyrä.pdb

@@ -1,0 +1,6 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\bin\Debug\Laskukone.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\bin\Debug\Laskukone.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\bin\Debug\Laskukone.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\obj\Debug\Laskukone.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\obj\Debug\Laskukone.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskukone\Laskukone\obj\Debug\Laskukone.pdb

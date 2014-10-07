@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KiihtyväLiike\KiihtyväLiike\bin\Debug\KiihtyväLiike.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KiihtyväLiike\KiihtyväLiike\bin\Debug\KiihtyväLiike.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KiihtyväLiike\KiihtyväLiike\bin\Debug\KiihtyväLiike.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KiihtyväLiike\KiihtyväLiike\obj\Debug\KiihtyväLiike.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\KiihtyväLiike\KiihtyväLiike\obj\Debug\KiihtyväLiike.pdb

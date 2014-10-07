@@ -1,0 +1,9 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\bin\Debug\Laskin2.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\bin\Debug\Laskin2.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\bin\Debug\Laskin2.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.Form1.resources
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.Properties.Resources.resources
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.csproj.GenerateResource.Cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Laskin2\Laskin2\obj\Debug\Laskin2.pdb

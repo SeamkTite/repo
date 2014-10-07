@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\FahrenheitMuunnostaulukko\FahrenheitMuunnostaulukko\bin\Debug\FahrenheitMuunnostaulukko.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\FahrenheitMuunnostaulukko\FahrenheitMuunnostaulukko\bin\Debug\FahrenheitMuunnostaulukko.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\FahrenheitMuunnostaulukko\FahrenheitMuunnostaulukko\bin\Debug\FahrenheitMuunnostaulukko.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\FahrenheitMuunnostaulukko\FahrenheitMuunnostaulukko\obj\Debug\FahrenheitMuunnostaulukko.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\FahrenheitMuunnostaulukko\FahrenheitMuunnostaulukko\obj\Debug\FahrenheitMuunnostaulukko.pdb

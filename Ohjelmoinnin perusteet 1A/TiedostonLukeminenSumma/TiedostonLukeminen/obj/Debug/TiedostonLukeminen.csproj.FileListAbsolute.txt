@@ -1,0 +1,12 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminen\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\bin\Debug\TiedostonLukeminen.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TiedostonLukeminenSumma\TiedostonLukeminen\obj\Debug\TiedostonLukeminen.csprojResolveAssemblyReference.cache

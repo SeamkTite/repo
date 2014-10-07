@@ -1,0 +1,11 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1\Kertotaulu1\bin\Debug\Kertotaulu1.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1\Kertotaulu1\bin\Debug\Kertotaulu1.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1\Kertotaulu1\bin\Debug\Kertotaulu1.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1\Kertotaulu1\obj\Debug\Kertotaulu1.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1\Kertotaulu1\obj\Debug\Kertotaulu1.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\bin\Debug\Kertotaulu1.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\obj\Debug\Kertotaulu1.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\obj\Debug\Kertotaulu1.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\bin\Debug\Kertotaulu1.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\bin\Debug\Kertotaulu1.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Kertotaulu1For\Kertotaulu1\obj\Debug\Kertotaulu1.csprojResolveAssemblyReference.cache

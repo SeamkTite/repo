@@ -1,0 +1,6 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.pdb

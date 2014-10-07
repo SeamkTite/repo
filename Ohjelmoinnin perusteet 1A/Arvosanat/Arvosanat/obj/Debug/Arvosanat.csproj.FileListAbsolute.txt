@@ -1,0 +1,6 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\bin\Debug\Arvosanat.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\obj\Debug\Arvosanat.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\bin\Debug\Arvosanat.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\bin\Debug\Arvosanat.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\obj\Debug\Arvosanat.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Arvosanat\Arvosanat\obj\Debug\Arvosanat.pdb

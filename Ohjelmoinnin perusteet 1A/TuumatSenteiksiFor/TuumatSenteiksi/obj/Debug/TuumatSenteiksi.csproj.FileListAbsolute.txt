@@ -1,0 +1,11 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksi\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksi\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksi\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksi\TuumatSenteiksi\obj\Debug\TuumatSenteiksi.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksi\TuumatSenteiksi\obj\Debug\TuumatSenteiksi.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\obj\Debug\TuumatSenteiksi.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\obj\Debug\TuumatSenteiksi.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\bin\Debug\TuumatSenteiksi.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\TuumatSenteiksiFor\TuumatSenteiksi\obj\Debug\TuumatSenteiksi.csprojResolveAssemblyReference.cache

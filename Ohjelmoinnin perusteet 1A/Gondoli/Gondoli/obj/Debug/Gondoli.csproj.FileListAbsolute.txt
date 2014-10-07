@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Gondoli\Gondoli\bin\Debug\Gondoli.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Gondoli\Gondoli\bin\Debug\Gondoli.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Gondoli\Gondoli\bin\Debug\Gondoli.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Gondoli\Gondoli\obj\Debug\Gondoli.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\Gondoli\Gondoli\obj\Debug\Gondoli.pdb

@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MuuttujienTyypit\MuuttujienTyypit\bin\Debug\MuuttujienTyypit.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MuuttujienTyypit\MuuttujienTyypit\bin\Debug\MuuttujienTyypit.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MuuttujienTyypit\MuuttujienTyypit\bin\Debug\MuuttujienTyypit.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MuuttujienTyypit\MuuttujienTyypit\obj\Debug\MuuttujienTyypit.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\MuuttujienTyypit\MuuttujienTyypit\obj\Debug\MuuttujienTyypit.pdb

@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\WhileTestejä\WhileTestejä\bin\Debug\WhileTestejä.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\WhileTestejä\WhileTestejä\bin\Debug\WhileTestejä.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\WhileTestejä\WhileTestejä\bin\Debug\WhileTestejä.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\WhileTestejä\WhileTestejä\obj\Debug\WhileTestejä.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\WhileTestejä\WhileTestejä\obj\Debug\WhileTestejä.pdb

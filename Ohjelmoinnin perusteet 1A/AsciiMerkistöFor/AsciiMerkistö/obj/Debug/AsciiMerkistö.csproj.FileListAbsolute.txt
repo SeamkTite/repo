@@ -1,0 +1,11 @@
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistö\AsciiMerkistö\bin\Debug\AsciiMerkistö.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistö\AsciiMerkistö\bin\Debug\AsciiMerkistö.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistö\AsciiMerkistö\bin\Debug\AsciiMerkistö.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistö\AsciiMerkistö\obj\Debug\AsciiMerkistö.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistö\AsciiMerkistö\obj\Debug\AsciiMerkistö.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\bin\Debug\AsciiMerkistö.exe.config
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\obj\Debug\AsciiMerkistö.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\obj\Debug\AsciiMerkistö.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\bin\Debug\AsciiMerkistö.exe
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\bin\Debug\AsciiMerkistö.pdb
+Y:\Makela_Petteri\TITE14\Ohjelmoinnin perusteet 1A\AsciiMerkistöFor\AsciiMerkistö\obj\Debug\AsciiMerkistö.csprojResolveAssemblyReference.cache
