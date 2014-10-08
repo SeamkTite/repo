@@ -31,6 +31,7 @@ namespace Tähdet
                 Console.WriteLine();
                 j++;
             }
+            // D) Ohjelma valmis
         }
     }
 }
